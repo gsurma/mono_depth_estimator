@@ -6,7 +6,7 @@
 
 Python Jupyter notebook with TensorFlow Keras implementation for the **mono image depth prediction**.
 
-<img src="assets/result3.gif">
+<img src="assets/result4.gif">
 
 ## Usage
  
@@ -55,6 +55,8 @@ Inputs on the left and model generated depth maps on the right:
 
 <img src="assets/result1.gif">
 <img src="assets/result2.gif">
+<img src="assets/result3.gif">
+<img src="assets/result4.gif">
 
 
 ## Author
